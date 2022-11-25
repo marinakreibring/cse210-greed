@@ -21,7 +21,7 @@ This way the principle of inharitance is applied in this game.
 The project files and folders are organized as follows:
 ```
 root                    (project root folder)
-+-- greed        (source code for game)
++-- greed               (source code for game)
   +-- data              (data files for game)
   +-- game              (specific game classes)
   +-- __main__.py       (entry point for program)
